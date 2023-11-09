@@ -1,0 +1,14 @@
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\bin\Debug\net6.0\BasicsOfStrings(C#).exe
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\bin\Debug\net6.0\BasicsOfStrings(C#).deps.json
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\bin\Debug\net6.0\BasicsOfStrings(C#).runtimeconfig.json
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\bin\Debug\net6.0\BasicsOfStrings(C#).dll
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\bin\Debug\net6.0\BasicsOfStrings(C#).pdb
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\obj\Debug\net6.0\BasicsOfStrings(C#).GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\obj\Debug\net6.0\BasicsOfStrings(C#).AssemblyInfoInputs.cache
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\obj\Debug\net6.0\BasicsOfStrings(C#).AssemblyInfo.cs
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\obj\Debug\net6.0\BasicsOfStrings(C#).csproj.CoreCompileInputs.cache
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\obj\Debug\net6.0\BasicsOfStrings(C#).dll
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\obj\Debug\net6.0\refint\BasicsOfStrings(C#).dll
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\obj\Debug\net6.0\BasicsOfStrings(C#).pdb
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\obj\Debug\net6.0\BasicsOfStrings(C#).genruntimeconfig.cache
+D:\.NetProgramming(C#)\BasicsOfStrings(C#)\BasicsOfStrings(C#)\obj\Debug\net6.0\ref\BasicsOfStrings(C#).dll
